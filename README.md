@@ -59,7 +59,7 @@ A highly optimized, feature-rich special edition port crafted for smooth perform
 - 🎛️ **Control Center Alignment:** Fixed control center paddings for a more uniform and visually balanced layout.
 - 🔓 **Tile Limits Removed:** Completely eliminated the control center's maximum 24 tiles limit for unrestricted customization.
 - 🔄 **System Apps:** Added and updated all Transsion system applications, including the latest Dynamic Bar.
-- 🔍 **Smart Navigation:** Added Circle to Search paired with a clean gesture navbar *(Note: Requires updated Google Play Services for CTS)* **(My Own Implementation)**.
+- 🔍 **Smart Navigation:** Added Circle to Search paired with a clean gesture navbar **(Note: Requires updated Google Play Services for CTS)** *(My Own Implementation)*.
 - 🧩 **Widget Control:** Introduced a custom edit button for supported widgets *(My Own Implementation)*.
 - ⚡ **Performance Optimized:** Tuned refresh rate, overall performance, and RAM management specifically tailored for low-end hardware.
 - ✨ **Under the Hood:** Various other major system improvements and stability enhancements.
