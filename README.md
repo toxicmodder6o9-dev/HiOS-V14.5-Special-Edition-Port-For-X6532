@@ -1,6 +1,6 @@
 # 📱 HiOS V14.5 Special Edition Ported From Tecno Spark 30C
 
-# ⚡ For Infinix X6532 Only
+# ⚡ For Infinix X6532
 
 A highly optimized, feature-rich special edition port crafted for smooth performance and daily stability. Brought to you by **@blackytoxic**.
 
